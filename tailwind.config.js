@@ -7,12 +7,3 @@ module.exports = {
     plugins: [],
   }
 
-  module.exports = {
-    theme: {
-      extend: {
-        backgroundImage: {
-          '1.png': "url('./images/.1.png')",
-        }
-      }
-    }
-  }
